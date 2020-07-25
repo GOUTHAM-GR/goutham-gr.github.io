@@ -1,3 +1,3 @@
 # goutham-gr.github.io
 
-I have shared my general work here.
+Developed a website to show the projects and other works.
